@@ -1,0 +1,2 @@
+# myDwm
+myself dwm Configurations
